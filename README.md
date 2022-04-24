@@ -1,10 +1,9 @@
-# stocks_analysis
 # Overview of Project
 ### Purpose & Background
 Steve reach out to create a macro to process stocks for 2017 and 2018. We will be refactoring the macro code used to process stocks for 2017 and 2018 to process more and save time the code takes to process. Steve wants his parents to use the macro to process the entire stock market over the last few years.
 # Results 
 ### Analysis & code
-I copied the code provided by Steve. Used previous code block from earlier lessons and modified them to work as indicated by Steve's outline.  
+I copied the code provided by Steve. Used previous code block from earlier lessons and modified them to work as indicated by Steve's outline. Several of the stocks had better return rates in 2017 than in 2018. In 2018 the US implemented a new tariff on Chinese goods. The Chinese followed the US lead and implemented a new tariff on US goods. This 2018 tariff war between the US and China led to lower return rates for individuals.
 # Summary
 ### Advantages of Refactoring Code
 The first one would be saving time. There are always new ways of writing a code that can improve the code, like an oil change to a car. Another advantage of refactoring code would be to keep it up to date since.
